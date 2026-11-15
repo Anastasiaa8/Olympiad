@@ -1,5 +1,5 @@
 import itertools
-MOD = 1_000_000_007
+MOD = 1000000007
 n, k = map(int, input().split())
 necklaces = set()
 
